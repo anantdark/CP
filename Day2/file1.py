@@ -40,5 +40,4 @@ if num == sum:
 else:
     print('Number is not an armstrong number')
 
-
 #CoDeD By AnAnT
