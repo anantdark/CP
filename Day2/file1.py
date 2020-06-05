@@ -39,3 +39,6 @@ if num == sum:
     print('Number is an armstrong number')
 else:
     print('Number is not an armstrong number')
+
+
+#CoDeD By AnAnT

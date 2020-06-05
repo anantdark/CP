@@ -15,3 +15,7 @@ print('Player 3', player3*2)
 print('Maximum 6 by player 1 are', player1 // 6)
 print('Maximum 6 by player 2 are', player2 // 6)
 print('Maximum 6 by player 3 are', player3 // 6)
+
+
+
+#CoDeD By AnAnT
