@@ -5,6 +5,7 @@ for i in range(iter):
     tvalue = int(input('Enter the value corresponding to the key'))
     fin[tkey] = tvalue
     print('Item added')
+print(fin)
 k = sorted(fin.items(), key= lambda x: x[1], reverse= True)
 print(f'The second largest dictionary value is {k[1][1]} for key {k[1][0]}')
 
