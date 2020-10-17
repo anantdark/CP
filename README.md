@@ -8,7 +8,7 @@ If you have any problem/algorithm from any competitive coding portal, create a P
 ## To create a PR
 
 - Fork the repo.
-- Ceate a branch
+- Create a branch
 - Make changes
 - Commit changes
 - Create a PR.
