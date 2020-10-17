@@ -12,3 +12,5 @@ If you have any problem/algorithm from any competitive coding portal, create a P
 - Make changes
 - Commit changes
 - Create a PR.
+
+Language preferred is Python, but other languages are accepted too.
